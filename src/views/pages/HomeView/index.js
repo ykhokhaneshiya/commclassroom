@@ -1,4 +1,4 @@
 // every components here and export it as HomeView .
-export default function () {
-  return <h1>Hurrah</h1>;
+export default function HomeView() {
+  return <h1>We Can do it</h1>;
 }

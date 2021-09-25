@@ -17,15 +17,7 @@
     },
     "plugins": ["react"],
     "rules": {
-      "prettier/prettier": [
-        "warn",
-        {
-          "endOfLine": "auto"
-        },
-        {
-          "usePrettierrc": true
-        }
-      ],
+      "prettier/prettier": 0,
       "react/jsx-key": "warn",
       "react/display-name": "warn",
       "react/prop-types": 0,
