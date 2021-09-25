@@ -1,4 +1,4 @@
-// data related to course here 
+// data related to course here
 export const courses = [
   {
     img: '',

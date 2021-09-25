@@ -1,4 +1,4 @@
-// data related to home page here 
+// data related to home page here
 export const number = [
   {
     id: '1',
