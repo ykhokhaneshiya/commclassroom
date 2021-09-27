@@ -1,4 +1,4 @@
-<h1 align="center">Contributing</h1>;
+<h1 align="center">Contributing</h1>
 
 ## 🔨 Setup & Run
 
